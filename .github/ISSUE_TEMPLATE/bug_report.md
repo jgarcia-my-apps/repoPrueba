@@ -22,4 +22,4 @@ name: "🐛 Bug Report"
 - Navegador y versión: [p. ej., Chrome 87, Safari 14]
 - Versión del proyecto: [p. ej., 1.0.0]
 ### Información adicional
-Cualquier otra información relevante.
+Cualquier otra información relevante..
